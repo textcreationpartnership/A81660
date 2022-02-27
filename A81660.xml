@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elija the Tishbite's supplication when presented the likeness of hand, &amp;c. (Kings 18.)</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81660</idno>
+            <idno type="STC">Wing D1985</idno>
+            <idno type="STC">Thomason E616_12</idno>
+            <idno type="STC">ESTC R206738</idno>
+            <idno type="EEBO-CITATION">99865845</idno>
+            <idno type="PROQUEST">99865845</idno>
+            <idno type="VID">165766</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165766)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E616[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elija the Tishbite's supplication when presented the likeness of hand, &amp;c. (Kings 18.)</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the Year 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p.8: Eleanor Tichet [i.e. Lady Eleanor].</note>
+                  <note>Annotation on Thomason copy: "Lady Elnor Davies"; "Nouemb: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apocalyptic literature --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165766:1" rendition="simple:additions"/>
+            <p>ELIJAH THE <hi>TISHBITE</hi>'s SUPPLICATION When Preſented the likeneſs of <hi>Hand,</hi> &amp;c. (<hi>Kings</hi> 18.)</p>
+            <p>
+               <add>Lady Elnor Davis</add>
+            </p>
+            <q>
+               <bibl>MARK 13.</bibl>
+               <p>But when ye ſhall ſee the Abomination of Deſolation <hi>(or maketh deſolate)</hi> ſpoken of by Daniel the Prophet, ſtanding where it ought not; Let him that readeth underſtand, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <add>Novemb: 22</add> Printed in the Year 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165766:2"/>
+            <pb n="3" facs="tcp:165766:2"/>
+            <head>
+               <hi>Elias</hi> Interceſsion preferr'd.</head>
+            <p>O Lord of Hoſts our God, <hi>How long thou Lord of Sabbaths,</hi> thus ſhall ſilence be in Heaven? How long whileſt they ſuppoſe <hi>like their ſitting Gods</hi> thou likewiſe <hi>faln aſleep,</hi> ſlum<g ref="char:EOLhyphen"/>breſt, or heareſt not at all; as theirs <hi>purſuing the Enemy, or on a march;</hi> thy thundring Voyce refrain no longer: O this day be it known That art God, I beſeech thee, I thy Servant alſo, hear me for thy VVords ſake, above all haſten to Anſwer, hear me, bidden in thy Name but ask <hi>Fire, fire, from the Wheels of thy Seraphin Throne,</hi> vouch<g ref="char:EOLhyphen"/>ſafe the light of thy preſence, a ſpark thence to lick up at once or Recon<g ref="char:EOLhyphen"/>cile (a Deluge ſuch of Diviſions) threatning no leſs then quenching Celeſtial flames; Thy Incenſe ſmoke
+<pb n="4" facs="tcp:165766:3"/>to extinguiſh thus arm'd to re-edifie <hi>Babel</hi>-Rout theſe Gyants then as fared with thoſe falſe Prophets both of one Spirit, Lo crying from morning to night too, <hi>Let none eſcape either,</hi> deſpi<g ref="char:EOLhyphen"/>ſing not the Birthright onely (ſure Promiſes) But where thou bleſſeſt, filling up with inveterate hatred the meaſure of ſuch Long-ſuffering, the VVorld, made believe thy Spirit confined in the Hemiſphere of their Studies; That the <hi>Jews</hi> how much bleſt, uncalled in ſuch revolted times, where beſide Confuſions Mark ſet on the Age preſent, confounded alike as that firſt Generation after the flood, their aſpiring Towers Erecting when ſcattered, whether then turned <hi>Turks</hi> and <hi>Saracens,</hi> that Mother of Abo<g ref="char:EOLhyphen"/>mination, bear witneſs, <hi>Mahomets</hi> Blaſphemous <hi>ALCORAN</hi> alſo, at
+<pb n="5" facs="tcp:165766:3" rendition="simple:additions"/>
+               <hi>Pauls, Cum Privilegio</hi> the Great VVhore ſtilled well <hi>Babylon,</hi> never more Bruitiſh after once inlightened, the Night paſt, that <hi>whoſo runs may read,</hi> not a tittle failing, whoſe preſence likened to Lightning out of the Eaſt, even ſhining unto the VVeſt, coming not ſhort of the <hi>Jews</hi> Viſitation, notwithſtanding in as much want (if not more) to be reingrafted ſtanding themſelves, to <hi>Babylon</hi> lo returned.</p>
+            <p>As moreover witneſs to this day in the firſt place, without Baptiſm; ſup<g ref="char:EOLhyphen"/>perleſs both; Nuld by them ſuch a Deed of Gift beſtowed on thoſe Ma<g ref="char:EOLhyphen"/>ſters of Art our Rabbies, whereas in the Ark its firſt figure all at full Age, till after the Flood none born unto them; impoſed nevertheleſs by theſe <hi>Gog</hi> and <hi>Magog</hi> Admintſtrators on ſuch, knowing <hi>not the right hand from
+<pb n="6" facs="tcp:165766:4" rendition="simple:additions"/>the left,</hi> retaining other Character, none but hearſay; together with the other left off, or taken as ſome morn<g ref="char:EOLhyphen"/>ing potion, and other like Tradition: armd with thy Brimſton Bow, appeal to thee, O righteous Iudge, thus where turned into VVormwood, the <hi>Waters of Life</hi> no few periſhing that way the Springs of Iuſtice anſ<g ref="char:EOLhyphen"/>werable, if weighs not <hi>Naboths</hi> Caſe down <hi>Ahabs</hi> ſword, inſtead of <hi>Solomons</hi> ſeaſon'd in the ſtrife of that now deſpi<g ref="char:EOLhyphen"/>ſed Sex, of <hi>Turkiſh</hi> ſlavery more then a taſte partaking, VVidows Eſtates put into the Ballance, in the VVorlds ſtate of Infancy, that if repenteſt at the heart, thou madeſt him not a Beaſt. Rather leave it to the world alſo of ſuch an Expreſsion the extent how much ſince concerned in it, that in Expectation of <hi>New Jeruſa<g ref="char:EOLhyphen"/>lems</hi>
+               <pb n="7" facs="tcp:165766:4" rendition="simple:additions"/>Nuptials were it not, better a Thouſand times the Gentiles Church ſince the Apoſtles Age, to have periſh<g ref="char:EOLhyphen"/>ed in that foreſhewed Siege and De<g ref="char:EOLhyphen"/>ſtruction, not a <hi>ſtone left on a ſtone,</hi> alſo they as obdurate.</p>
+            <p>VVhich Petition wherein without farther Proceſs, not like Attorneys BILLS, ſuppoſing to be Heard for their much Repetition.</p>
+            <p>VVhere laſtly to be ſhort with the time like that <hi>little dark Cloud a Hand like,</hi> to the waiting Prophet no ſmall welcom token, as gathered therefrom theſe of Palmiſtries Science, extend<g ref="char:EOLhyphen"/>ing to the preſent <hi>Jubile</hi> or Number of Fifty; ſo points to a Blow when as much attention lends to their Note, as they of ſuch took notice ſent from him, thoſe <hi>Baals</hi> Sons the Image of God both alike, as the Baboon or ſuch
+<pb n="8" facs="tcp:165766:5" rendition="simple:additions"/>like theirs carried with the current of the Cormorant Times. And ſo far for them drinking at the Brooks ſide their farewel, Four hundred and fifty, for Fiſh and Fowl ſuch an unexpected evening Banquent. And for the peo<g ref="char:EOLhyphen"/>ples hearts turned back, truſting in heartleſs Leaders, attended with that bleſſed <hi>ſhower</hi> expected as little ſo long after the Heavens reſtrained; and in <hi>Iſrael no few Widows too, but unto none of them, ſave to Sareptas Widow of Sidon,</hi> &amp;c. As thereby that line behold mea<g ref="char:EOLhyphen"/>ſured the preſent Abominable Age its coming to it ſelf again, cleanſed the unparalleld Leprous Time.</p>
+            <closer>
+               <dateline>
+                  <date>October</date>
+               </dateline>
+            </closer>
+            <byline>
+               <add>The Lambs Wife.</add> By <hi>Eleanor Tichet.</hi>
+            </byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
